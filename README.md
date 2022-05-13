@@ -32,4 +32,13 @@ The analysis of the election show that:
 - The winner of the election was: 
   - Diana DeGette who received 73.8% of the vote and 272,892 votes 
 
+## Challenge Overview
+After presenting the candidate results from the initial election analysis to the Colorado Board of Elections, the Board requested that an additional analysis be conducted on the three counties that were involved in the local election, and to have that information included in the audit.  THe additional data requested was 
+- The voter turnout for each county
+- The percentage of votes from each county out of the total count
+- The county with the highest turnout 
+
+## Challenge Summary
+The 
+
 
